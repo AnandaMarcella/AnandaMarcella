@@ -17,23 +17,21 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/GPA-3.98%20%2F%204.00-58A6FF?style=for-the-badge" />
-  
   <img src="https://img.shields.io/badge/KMIPN%20VII-Hackathon%20Winner-1F6FEB?style=for-the-badge" />
-  
   <img src="https://img.shields.io/badge/Open%20for-Internship-2EA043?style=for-the-badge" />
 </p>
 
 <p align="center">
   <a href="mailto:anandamarcella47@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
   </a>
-
+  
   <a href="https://linkedin.com/in/ananda-marcella-1b4337318">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
   </a>
-
+  
   <a href="https://anandamarcella.github.io">
-    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+    <img src="https://skillicons.dev/icons?i=github" height="42"/>
   </a>
 </p>
 
@@ -56,63 +54,80 @@
 # 🛠️ Skills & Technologies
 
 ## 📌 System Analysis & Design
-- System Requirements Analysis
-- Business Process Mapping
-- Flowchart
-- Use Case Diagram
-- ERD Design
-- System Documentation
+
+- System Requirements Analysis  
+- Business Process Mapping  
+- Flowchart & BPMN  
+- Use Case Diagram  
+- ERD Design  
+- System Documentation  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,mysql" />
+</p>
+
 ---
+
 ## 💻 Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,figma" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js" />
 </p>
+
 ---
 
 ## 📊 Data & Analytics
-- Power BI
-- Excel VBA & Macros
-- Dashboard Reporting
-- Data Visualization
+
+- Power BI  
+- Excel VBA & Macros  
+- Dashboard Reporting  
+- Data Visualization  
 
 ---
 
 # 📂 Featured Projects
+
 ## 🥗 Nutribase
 Web-based management and food distribution system focused on operational efficiency and monitoring.
+
 **Role:** Project Manager & System Analyst
 
 ---
 
 ## 🧠 MindMate AI
 AI chatbot project for mental health support with structured workflow and documentation system.
+
 **Role:** System Analyst & Documentation
+
 ---
 
 ## 🍍 SweetPine
 Web-based ordering system with business analysis and quality assurance implementation.
+
 **Role:** System Analyst & QA
+
 ---
 
 ## 📊 Sales Transaction System
 Excel VBA automation system for transaction processing and financial reporting.
+
 **Role:** Project Manager & Data Analyst
 
 ---
 
 # 🏆 Achievements
 
-- 🥇 KMIPN VII National Hackathon — 1st Place (2025)
-- 🥇 Article Writing Competition — 1st Place (2025)
-- 🥇 Video Essay Competition — 1st Place (2025)
-- 🥇 Essay Writing Competition — 2nd Place (2024 & 2025)
-- 🥈 Outstanding Student JTIK — 2nd Place (2024)
-- 📄 SEMNASTERA 2025 Publication
+- 🥇 KMIPN VII National Hackathon — 1st Place (2025)  
+- 🥇 Article Writing Competition — 1st Place (2025)  
+- 🥇 Video Essay Competition — 1st Place (2025)  
+- 🥈 Essay Writing Competition — 2nd Place (2024 & 2025)  
+- 🥈 Outstanding Student JTIK — 2nd Place (2024)  
+- 📄 SEMNASTERA 2025 Publication  
 
 ---
 
 # 🌐 Connect With Me
+
 <p align="center">
   <a href="mailto:anandamarcella47@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -121,10 +136,13 @@ Excel VBA automation system for transaction processing and financial reporting.
   <a href="https://linkedin.com/in/ananda-marcella-1b4337318">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://anandamarcella.github.io">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
+
+---
 
 <p align="center">
   <i>"Turning business needs into structured digital solutions."</i>
