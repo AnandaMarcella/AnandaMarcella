@@ -137,15 +137,10 @@ Excel VBA automation system for transaction processing and financial reporting.
   <a href="https://linkedin.com/in/ananda-marcella-1b4337318">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
   <a href="https://anandamarcella.github.io">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
-
-# ✨ Quote
 
 <p align="center">
   <i>"Turning business needs into structured digital solutions."</i>
