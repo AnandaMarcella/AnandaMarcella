@@ -56,30 +56,22 @@
 # 🛠️ Skills & Technologies
 
 ## 📌 System Analysis & Design
-
 - System Requirements Analysis
 - Business Process Mapping
-- Flowchart & BPMN
+- Flowchart
 - Use Case Diagram
 - ERD Design
 - System Documentation
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,mysql" />
-</p>
-
 ---
-
 ## 💻 Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,figma" />
 </p>
-
 ---
 
 ## 📊 Data & Analytics
-
 - Power BI
 - Excel VBA & Macros
 - Dashboard Reporting
@@ -88,31 +80,24 @@
 ---
 
 # 📂 Featured Projects
-
 ## 🥗 Nutribase
 Web-based management and food distribution system focused on operational efficiency and monitoring.
-
 **Role:** Project Manager & System Analyst
 
 ---
 
 ## 🧠 MindMate AI
 AI chatbot project for mental health support with structured workflow and documentation system.
-
 **Role:** System Analyst & Documentation
-
 ---
 
 ## 🍍 SweetPine
 Web-based ordering system with business analysis and quality assurance implementation.
-
 **Role:** System Analyst & QA
-
 ---
 
 ## 📊 Sales Transaction System
 Excel VBA automation system for transaction processing and financial reporting.
-
 **Role:** Project Manager & Data Analyst
 
 ---
@@ -122,13 +107,13 @@ Excel VBA automation system for transaction processing and financial reporting.
 - 🥇 KMIPN VII National Hackathon — 1st Place (2025)
 - 🥇 Article Writing Competition — 1st Place (2025)
 - 🥇 Video Essay Competition — 1st Place (2025)
+- 🥇 Essay Writing Competition — 2nd Place (2024 & 2025)
 - 🥈 Outstanding Student JTIK — 2nd Place (2024)
 - 📄 SEMNASTERA 2025 Publication
 
 ---
 
 # 🌐 Connect With Me
-
 <p align="center">
   <a href="mailto:anandamarcella47@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
