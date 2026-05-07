@@ -62,16 +62,14 @@
 - ERD Design  
 - System Documentation  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,mysql" />
-</p>
+
 
 ---
 
 ## 💻 Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,figma" />
 </p>
 
 ---
