@@ -35,8 +35,8 @@
 
 | Domain | Tools & Technologies |
 | :--- | :--- |
-| **Analysis & Design** | Power Designer, StarUML, Draw.io, Figma, BPMN, ERD |
-| **Web Development** | PHP (Laravel), JavaScript (Next.js), HTML, CSS, MySQL |
+| **Analysis & Design** | Power Designer, StarUML, Draw.io, Figma, ERD |
+| **Web Development** | PHP (Laravel), JavaScript, HTML, CSS, MySQL |
 | **Data & Automation** | Excel VBA & Macros, Power BI, SPSS 25, Dashboard Reporting |
 
 ---
@@ -54,8 +54,9 @@
 
 * 🥇 **Juara 1 Hackathon KMIPN VII (2025)** – Tingkat Nasional di Politeknik Negeri Padang.
 * 🥇 **Juara 1 Lomba Menulis Artikel & Video Essay (2025)** – Kompetisi tingkat nasional.
-* 🥈 **Mahasiswa Berprestasi JTIK (2024)** & Juara 2 Lomba Esai Nasional (2024-2025).
-* 📄 **Publikasi Ilmiah** – Penulis artikel ilmiah pada konferensi nasional SEMNASTERA 2025.
+* 🥈 **Mahasiswa Berprestasi JTIK (2024)**
+* 🥈 **Juara 2 Lomba Esai Nasional (2024-2025)**
+* 📄 **Publikasi Ilmiah** –  SEMNASTERA 2025.
 
 ---
 
