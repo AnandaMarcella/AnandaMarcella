@@ -39,18 +39,6 @@
   <img src="https://komarev.com/ghpvc/?username=AnandaMarcella&label=Profile%20Views&color=58A6FF&style=flat" />
 </p>
 
----
-
-# 🚀 About Me
-
-🎓 Information Systems Student at **Politeknik Negeri Subang**  
-📊 GPA: **3.98 / 4.00**  
-🏆 1st Place — **KMIPN VII National Hackathon 2025**  
-🏛️ Vice Chairman of **HIMATIKOM**  
-💡 Passionate about system analysis, business processes, and data-driven solutions.
-
----
-
 # 🛠️ Skills & Technologies
 
 ## 📌 System Analysis & Design
