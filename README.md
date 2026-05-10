@@ -1,17 +1,13 @@
-<!-- ===================================================== -->
-<!-- HERO SECTION -->
-<!-- ===================================================== -->
-
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,35:1F6FEB,70:58A6FF,100:79C0FF&text=ANANDA%20MARCELLA&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=System%20Analyst%20•%20Business%20Enthusiast%20•%20Tech%20Explorer&descAlignY=58&descSize=20"
-    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D1117,35:1F6FEB,70:58A6FF,100:79C0FF&text=ANANDA%20MARCELLA&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=System%20Analyst%20•%20Business%20Enthusiast%20•%20Tech%20Explorer&descAlignY=58&descSize=20" 
+    width="100%" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Structured+Digital+Solutions;Passionate+About+System+Analysis;Business+Process+%26+Data+Driven+Insights;Hackathon+%26+Technology+Enthusiast"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+Structured+Digital+Solutions;Passionate+About+System+Analysis;Business+Process+%26+Data+Driven+Insights;Hackathon+%26+Technology+Enthusiast" 
   />
 </p>
 
@@ -25,90 +21,41 @@
   <a href="mailto:anandamarcella47@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
   </a>
-  
   <a href="https://linkedin.com/in/ananda-marcella-1b4337318">
     <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
   </a>
-  
-  <a href="https://anandamarcella.github.io">
+  <a href="https://github.com/AnandaMarcella">
     <img src="https://skillicons.dev/icons?i=github" height="42"/>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnandaMarcella&label=Profile%20Views&color=58A6FF&style=flat" />
-</p>
-
-# 🛠️ Skills & Technologies
-
-## 📌 System Analysis & Design
-
-- System Requirements Analysis  
-- Business Process Mapping  
-- Flowchart & BPMN  
-- Use Case Diagram  
-- ERD Design  
-- System Documentation  
-
-
-
 ---
 
-## 💻 Development
+# 🛠️ Skills & Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,figma" />
-</p>
-
----
-
-## 📊 Data & Analytics
-
-- Power BI  
-- Excel VBA & Macros  
-- Dashboard Reporting  
-- Data Visualization  
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Analysis & Design** | Power Designer, StarUML, Draw.io, Figma, BPMN, ERD |
+| **Web Development** | PHP (Laravel), JavaScript (Next.js), HTML, CSS, MySQL |
+| **Data & Automation** | Excel VBA & Macros, Power BI, SPSS 25, Dashboard Reporting |
 
 ---
 
 # 📂 Featured Projects
 
-## 🥗 Nutribase
-Web-based management and food distribution system focused on operational efficiency and monitoring.
-
-**Role:** Project Manager & System Analyst
-
----
-
-## 🧠 MindMate AI
-AI chatbot project for mental health support with structured workflow and documentation system.
-
-**Role:** System Analyst & Documentation
+* **NutriBase** – Sistem manajemen distribusi makanan bergizi gratis dengan monitoring real-time dan akses berbasis peran.
+* **MindMate AI** – Chatbot kesehatan mental berbasis AI (Next.js & Gemini AI) dengan fitur mood monitoring.
+* **SweetPine** – Sistem pemesanan produk UMKM berbasis web untuk optimasi penjualan dan akurasi pesanan.
+* **Finance System** – Otomasi sistem transaksi dan pelaporan keuangan menggunakan Excel VBA.
 
 ---
 
-## 🍍 SweetPine
-Web-based ordering system with business analysis and quality assurance implementation.
+# 🏆 Top Achievements
 
-**Role:** System Analyst & QA
-
----
-
-## 📊 Sales Transaction System
-Excel VBA automation system for transaction processing and financial reporting.
-
-**Role:** Project Manager & Data Analyst
-
----
-
-# 🏆 Achievements
-
-- 🥇 KMIPN VII National Hackathon — 1st Place (2025)  
-- 🥇 Article Writing Competition — 1st Place (2025)  
-- 🥇 Video Essay Competition — 1st Place (2025)  
-- 🥈 Essay Writing Competition — 2nd Place (2024 & 2025)  
-- 🥈 Outstanding Student JTIK — 2nd Place (2024)  
-- 📄 SEMNASTERA 2025 Publication  
+* 🥇 **Juara 1 Hackathon KMIPN VII (2025)** – Tingkat Nasional di Politeknik Negeri Padang.
+* 🥇 **Juara 1 Lomba Menulis Artikel & Video Essay (2025)** – Kompetisi tingkat nasional.
+* 🥈 **Mahasiswa Berprestasi JTIK (2024)** & Juara 2 Lomba Esai Nasional (2024-2025).
+* 📄 **Publikasi Ilmiah** – Penulis artikel ilmiah pada konferensi nasional SEMNASTERA 2025.
 
 ---
 
@@ -118,29 +65,18 @@ Excel VBA automation system for transaction processing and financial reporting.
   <a href="mailto:anandamarcella47@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://linkedin.com/in/ananda-marcella-1b4337318">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <a href="https://anandamarcella.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
-
----
 
 <p align="center">
   <i>"Turning business needs into structured digital solutions."</i>
 </p>
 
----
-
-<!-- FOOTER -->
-
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:79C0FF,50:1F6FEB,100:0D1117"
-    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:79C0FF,50:1F6FEB,100:0D1117" 
+    width="100%" 
   />
 </p>
