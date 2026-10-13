@@ -11,11 +11,6 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GPA-3.98%20%2F%204.00-58A6FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/KMIPN%20VII-Hackathon%20Winner-1F6FEB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20for-Internship-2EA043?style=for-the-badge" />
-</p>
 
 <p align="center">
   <a href="mailto:anandamarcella47@gmail.com">
